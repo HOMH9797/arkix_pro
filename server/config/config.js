@@ -1,7 +1,7 @@
 
-process.env.AWS_ACCESS_KEY = process.env.AWS_ACCESS_KEY || 'AKIAIGYP2SMNLTBB43KQ';
+process.env.AWS_ACCESS_KEY = process.env.AWS_ACCESS_KEY || '';
 
-process.env.AWS_SECRET_ACCESS = process.env.AWS_SECRET_ACCESS || '2LyYJE0NzA/cxG7iUCmmtkzYxXRMRGUssPa5pTki';
+process.env.AWS_SECRET_ACCESS = process.env.AWS_SECRET_ACCESS || '';
 //  Puerto
 
 process.env.PORT = process.env.PORT || 3500;
