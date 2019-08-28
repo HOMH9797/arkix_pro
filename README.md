@@ -4,7 +4,7 @@ _El servicio corresponde al proyecto de ingreso de la empresa arkix el cual cons
 
 ## Comenzando 🚀
 
-_Descarga el repositorio para llevar acabo pruebas de forma local de querer realizar pruebas en produccion visitar la siguiente URL._
+_Descarga el repositorio para llevar acabo pruebas de forma local de querer realizar pruebas en produccion visitar la siguiente URL: https://arkixservice.herokuapp.com/ y correspondiente set de pruebas https://documenter.getpostman.com/view/5935819/SVfQQoZt_
 
 ###Instalación 🔧 y Pre-requisitos 📋
 
@@ -20,7 +20,7 @@ _Realizar el comando {npm install} para bajar las dependencias correspondientes 
 
 ## Para realizar las pruebas de forma local ⚙️
 
-_Debera hacer uso de las siguientes URL recuerde que el puerto es configurable {archivo config/config.js} y de ser modificado las URL  tambien deben cambiar de hacer la pruebas en produccion por favor visitar la siguiente URL:_
+_Debera hacer uso de las siguientes URL recuerde que el puerto es configurable {archivo config/config.js} y de ser modificado las URL  tambien deben cambiar de hacer la pruebas en produccion por favor visitar la siguiente URL: https://arkixservice.herokuapp.com/ y correspondiente set de pruebas https://documenter.getpostman.com/view/5935819/SVfQQoZt_
 
 
 ```
